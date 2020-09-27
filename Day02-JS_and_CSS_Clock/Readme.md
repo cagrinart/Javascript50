@@ -36,6 +36,6 @@ Lessons Learned From This Project
     Style of an element can also be changed alternatively using `setAttribute` method.
 
     ```JavaScript
-    secondHand.setAttribute('style', 'transform: rotate(45deg);')`;
+    secondHand.setAttribute('style', 'transform: rotate(45deg);');
     ```
 
