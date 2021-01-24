@@ -84,7 +84,3 @@ Lessons Learned From This Project
     ```Javascript
     document.getElementById("myDIV").classList.add("mystyle");
     ```
-
-
-
-classlist toggle
