@@ -1,3 +1,5 @@
+![index.html](screenshot/HTML5Canvas.png)
+
 Lessons Learned From This Project 
 ==================================
 
