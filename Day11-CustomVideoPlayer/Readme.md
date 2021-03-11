@@ -16,6 +16,7 @@ Lessons Learned From This Project
     ```
 
 ## CSS
+---
 1. [**`::-webkit-slider-runnable-track`**](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-slider-runnable-track)
     CSS pseudo-element represents the "track" (the groove in which the indicator slides) of an `<input type="range">`.
     <input type="range">
