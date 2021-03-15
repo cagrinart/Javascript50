@@ -1,5 +1,3 @@
-![index.html](screenshot/KeySequenceDetection.png)
-
 Lessons Learned From This Project 
 ==================================
 
